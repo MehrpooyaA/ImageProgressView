@@ -49,6 +49,7 @@
             tools:text="30 %"
             app:layout_constraintBottom_toBottomOf="@+id/ivLoadingImageFront"
             app:layout_constraintStart_toEndOf="@+id/ivLoadingImageFront"
+            android:visibility="gone"
             android:layout_marginStart="8dp"/>
 
 </android.support.constraint.ConstraintLayout>
